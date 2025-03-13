@@ -16,12 +16,15 @@ Identifying trends over time and comparing pollutant levels by year.
 Visualizations such as line plots, bar plots, and box plots to assess air quality distribution across regions.
 <br>
 Modeling:
+<br>
 Several models were employed, including Random Forest, Linear Regression, and Gradient Boosting Regressor.
 <br>
 Evaluation:
+<br>
 Metrics such as Mean Squared Error (MSE), R-squared, and Cross-validation MSE were used to assess the model performance.
 <br>
 Outcome:
+<br>
 The final objective was to understand the trends in air quality and provide accurate future predictions to help in policymaking and environmental management.
 <br>
 Key Metrics in the Project:
@@ -35,22 +38,22 @@ Cross-Validation MSE: Evaluates the model's performance across different subsets
 Success Criteria for the Project:
 <br>
 To determine if the project is successful, you can look at the following criteria:
-
+<br>
 Model Performance:
-
+<br>
 Achieving low MSE and high R-squared values indicate that the model is accurately predicting air quality.
 Cross-validation MSE should also be low to ensure the model's robustness.
 <br>
 Trend Analysis:
-
+<br>
 The model should correctly identify significant trends in air quality, such as increasing or decreasing pollutant levels over time.
 <br>
 Actionable Insights:
-
+<br>
 If the analysis can provide actionable insights (e.g., identifying areas with worsening air quality, pinpointing seasonal variations in pollutants), then the project would be considered successful.
 <br>
 Visualization Effectiveness:
-
+<br>
 Clear and informative visualizations (line plots, bar charts, box plots) should effectively convey the air quality trends and make it easy to interpret the data.
 <br>
 Author- Aadesh Naik
