@@ -41,10 +41,6 @@ Model Performance:
 Achieving low MSE and high R-squared values indicate that the model is accurately predicting air quality.
 Cross-validation MSE should also be low to ensure the model's robustness.
 <br>
-Accurate Predictions:
-
-The forecasting models (like ARIMA and Prophet) should produce forecasts that are close to the actual future values of pollutants, with minimal error.
-<br>
 Trend Analysis:
 
 The model should correctly identify significant trends in air quality, such as increasing or decreasing pollutant levels over time.
