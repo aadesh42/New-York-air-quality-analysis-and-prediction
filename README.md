@@ -1,4 +1,4 @@
-# New-York-air-quality-surveillance
+# New-York-air-quality-analysis and prediction.
 The project focuses on analyzing and predicting air quality in New York State using various machine learning models and time-series analysis techniques. Specifically, the goal is to evaluate trends in pollutants like PM 2.5 and Total SO2 emissions and build prediction models to forecast future pollution levels.
 <br>
 Dataset: The dataset contains data on different air quality indicators (e.g., PM 2.5, SO2 Emissions) across various geographic regions, with information on pollutant levels over time (Start_Date), geographic locations (Geo Place Name), and other features.
